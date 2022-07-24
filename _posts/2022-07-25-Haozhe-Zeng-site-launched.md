@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Haozhe,Zeng, Launches Site"
+title: "Haozhe Zeng, Launches Site"
 date: 2022-07-25
 ---
 
